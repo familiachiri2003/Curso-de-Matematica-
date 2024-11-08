@@ -1,0 +1,94 @@
+body {
+    background-image: url(fondo.jpg);
+    background-color: darkkhaki;
+}
+.MADRE {
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 800px;
+    margin-right: 900px;
+    font-size: 20px;
+    font-family: monospace;
+}
+h1{
+    color: black;
+    font-family: monospace;
+}
+.chiri{
+    color: black;
+    font-size: 20px;
+    font-family: monospace;
+}
+.MAMA2{
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 20px;
+    font-family: monospace;
+}
+.mama3{
+    background-color: cornsilk;
+    font-size: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+    font-family: monospace;
+}
+.mama4{
+    background-color: cornsilk;
+    font-size: 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 20px;
+    font-family: monospace;
+}
+.ohoh{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.bodoque{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.cris{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.about .row .content button {
+    height: 3rem;
+    width: 14rem;
+    background: #977043;
+    color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 .3rem 1rem rgba(0, 0, 0, .3);
+    font-size: 2rem;
+    font-family: serif;
+    transition: .2s;
+    margin-top: 2rem;
+}
+
+.about .row .content button:hover {
+    background: none;
+    border: .2rem solid #8f7857;
+}

@@ -1,0 +1,99 @@
+body {
+    background-color: khaki;
+    background-image: url(fondo.webp);
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+}
+.MAMA2{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: monospace;
+}
+.alisson{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: monospace;
+}
+.chiri{
+    color: black;
+    font-size: 22px;
+    font-family: monospace;
+}
+.mama3{
+    background-color: rgba(31, 87, 124, 0.952);
+    font-size: 22px;
+    font-family: monospace;
+}
+.mama4{
+    background-color: rgba(185, 162, 60, 0.644);
+    font-size: 22px;
+    font-family: monospace;
+}
+.ohoh{
+    background-color: beige;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 300px;
+    margin-right: 200px;
+    border-radius: 70px;
+    font-family: monospace;
+    font-size: 22px;
+}
+.angulo{
+    background-color: rgb(0, 167, 8);
+    font-size: 22px;
+    font-family: monospace;
+}
+.bodoque{
+    background-color: beige;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 300px;
+    margin-right: 200px;
+    border-radius: 70px;
+    font-family: monospace;
+    font-size: 22px;
+}
+.cris{
+    background-color: beige;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 500px;
+    margin-right: 600px;
+    border-radius: 70px;
+    font-family: monospace;
+    font-size: 22px;
+}
+.chiri{
+    background-color: rgb(23, 98, 160);
+    font-size: 22px;
+    font-family: monospace;
+}
+.mamani{
+    background-color: darkgray;
+    font-size: 22px;
+    font-family: monospace;
+}
+.ali{
+    background-color: beige;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 70px;
+    font-family: monospace;
+    font-size: 22px;
+}
+.ECUACIONES{
+    background-color: black;
+    color: rgb(137, 129, 146);
+    padding: 30px;
+    margin: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 50px;
+    font-family: monospace;
+    font-size: 22px;
+}
